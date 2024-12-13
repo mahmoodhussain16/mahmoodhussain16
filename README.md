@@ -1,16 +1,25 @@
-## Hi there 👋
+ Hi there! 👋 I'm Mahmood Hussain 
+
+🚀 Frontend Developer | React | Javascript
+
+I'm a passionate **Frontend Developer** who loves crafting beautiful, responsive, and user-friendly websites and applications. I enjoy learning new technologies and solving complex problems through code.
 
 
-**mahmoodhussain16/mahmoodhussain16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 🛠️ Tech Stack 
+Here are the tools and technologies I work with:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ **Frontend**  
+- **HTML5** 🌐 - Semantic and accessible markup.  
+- **CSS3** 🎨 - Styling with Flexbox, Grid, and animations.  
+- **JavaScript (ES6+)** 🚀 - Building interactive web experiences.  
+- **React.js** ⚛️ - Component-based UI development.  
+
+ **Backend & Tools**  
+- **Node.js** 🌐 - Server-side JavaScript.  
+- **Git & GitHub** 🐙 - Version control and collaboration.  
+- **Linux** 🐧 - Bash scripting and CLI tools.  
+
+
+
 
